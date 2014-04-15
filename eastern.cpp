@@ -78,5 +78,5 @@ int main(){
     //Let five seconds left
     std::cout<<"\n\n"<<"exit in 5 seconds";
     Sleep(5000);
-    return 0;
+    return 1;
 }
